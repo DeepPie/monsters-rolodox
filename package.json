@@ -2,7 +2,7 @@
   "name": "monsters-rolodox",
   "version": "0.1.0",
   "private": true,
-  "Homepage": "https://DeepPie.github.io/monsters-rolodox",
+  "Homepage": "https://deeppie.github.io/monsters-rolodox",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.0",
